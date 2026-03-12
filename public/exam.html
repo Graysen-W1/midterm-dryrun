@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Full Stack Tech Exam</title>
+  <!-- external stylesheet (W3Schools: https://www.w3schools.com/css/css_howto.asp) -->
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1>Full Stack Tech Exam</h1>
+    <p class="instructions">
+      Enter a name below to look up its emoji from the database.
+      Try your own name after initializing it!
+    </p>
+
+    <label for="userName">Enter name:</label>
+    <input type="text" id="userName" placeholder="Enter a name (e.g., graysen)" required>
+    <button id="searchBtn">Search</button>
+
+    <!-- dom element to receive a response from the server -->
+    <p id="result"></p>
+  </div>
+
+  <!-- external script using fetch() instead of a form
+       (W3Schools: https://www.w3schools.com/js/js_api_fetch.asp) -->
+  <script src="/js/main.js"></script>
+</body>
+
+</html>
