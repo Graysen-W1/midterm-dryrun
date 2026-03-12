@@ -1,10 +1,10 @@
-**Name:** [Your Name Here]
+**Name:** Graysen Wargo
 
 ## 🔗 Required Links
 
 | Component | Link | 
 |-----------|------|
-| **GitHub Repository** | [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name) | 
+| **GitHub Repository** | [https://github.com/your-username/your-repo-name](https://github.com/Graysen-W1/midterm-dryrun/tree/dev) | 
 | **GitHub Pages (docs/)** | [https://your-username.github.io/your-repo-name/](https://your-username.github.io/your-repo-name/) | 
 | **Dev Server (Render)** | [https://your-app-name-dev.onrender.com](https://your-app-name-dev.onrender.com) | 
 | **Production Server (GCP)** | [http://your.static.external.ip:3000](http://your.static.external.ip:3000) | 
