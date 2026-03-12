@@ -5,7 +5,7 @@
 | Component | Link | 
 |-----------|------|
 | **GitHub Repository** | [midterm-dryrun](https://github.com/Graysen-W1/midterm-dryrun/tree/dev) | 
-| **GitHub Pages (docs/)** | [docs/](graysen-w1.github.io/midterm-dryrun/) | 
+| **GitHub Pages (docs/)** | [docs](graysen-w1.github.io/midterm-dryrun/) | 
 | **Dev Server (Render)** | [render](https://midterm-dryrun.onrender.com/) | 
 | **Production Server (GCP)** | [production](http://34.125.126.120/) | 
 | **Issue** | [issue #1](https://github.com/Graysen-W1/midterm-dryrun/issues/1) | 
