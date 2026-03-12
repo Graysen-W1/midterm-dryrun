@@ -4,10 +4,10 @@
 
 | Component | Link | 
 |-----------|------|
-| **GitHub Repository** | [https://github.com/your-username/your-repo-name](https://github.com/Graysen-W1/midterm-dryrun/tree/dev) | 
-| **GitHub Pages (docs/)** | [https://your-username.github.io/your-repo-name/](https://your-username.github.io/your-repo-name/) | 
-| **Dev Server (Render)** | [https://your-app-name-dev.onrender.com](https://your-app-name-dev.onrender.com) | 
-| **Production Server (GCP)** | [http://your.static.external.ip:3000](http://your.static.external.ip:3000) | 
+| **GitHub Repository** | [midterm-dryrun](https://github.com/Graysen-W1/midterm-dryrun/tree/dev) | 
+| **GitHub Pages (docs/)** | [docs/README.md](graysen-w1.github.io/midterm-dryrun/) | 
+| **Dev Server (Render)** | [render](https://midterm-dryrun.onrender.com/) | 
+| **Production Server (GCP)** | [production](http://34.125.126.120/) | 
 | **Issue** | [https://github.com/your-username/your-repo-name/issues/1](https://github.com/your-username/your-repo-name/issues/1) | 
 | **Pull Request** | [https://github.com/your-username/your-repo-name/pull/1](https://github.com/your-username/your-repo-name/pull/1) | 
 | **Milestone** | [https://github.com/your-username/your-repo-name/milestone/1](https://github.com/your-username/your-repo-name/milestone/1) | 
